@@ -1,0 +1,319 @@
+﻿  DXUT.cpp
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,1): warning C4005: 'DXGI_STATUS_OCCLUDED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55840): message : 'DXGI_STATUS_OCCLUDED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,1): warning C4005: 'DXGI_STATUS_CLIPPED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55849): message : 'DXGI_STATUS_CLIPPED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,1): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55858): message : 'DXGI_STATUS_NO_REDIRECTION'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,1): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55867): message : 'DXGI_STATUS_NO_DESKTOP_ACCESS'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,1): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55876): message : 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,1): warning C4005: 'DXGI_STATUS_MODE_CHANGED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55885): message : 'DXGI_STATUS_MODE_CHANGED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,1): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55894): message : 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,1): warning C4005: 'DXGI_ERROR_INVALID_CALL': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55909): message : 'DXGI_ERROR_INVALID_CALL'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,1): warning C4005: 'DXGI_ERROR_NOT_FOUND': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55918): message : 'DXGI_ERROR_NOT_FOUND'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,1): warning C4005: 'DXGI_ERROR_MORE_DATA': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55927): message : 'DXGI_ERROR_MORE_DATA'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,1): warning C4005: 'DXGI_ERROR_UNSUPPORTED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55936): message : 'DXGI_ERROR_UNSUPPORTED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,1): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55945): message : 'DXGI_ERROR_DEVICE_REMOVED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,1): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55954): message : 'DXGI_ERROR_DEVICE_HUNG'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,1): warning C4005: 'DXGI_ERROR_DEVICE_RESET': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55964): message : 'DXGI_ERROR_DEVICE_RESET'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,1): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55973): message : 'DXGI_ERROR_WAS_STILL_DRAWING'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,1): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55983): message : 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,1): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(55992): message : 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,1): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56002): message : 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,1): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56011): message : 'DXGI_ERROR_NONEXCLUSIVE'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,1): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56020): message : 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,1): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56030): message : 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,1): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56039): message : 'DXGI_ERROR_REMOTE_OUTOFMEMORY'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,1): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56279): message : 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,1): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': 매크로 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\winerror.h(56288): message : 'D3D10_ERROR_FILE_NOT_FOUND'의 이전 정의를 참조하십시오.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\CameraManager.h(38,1): warning C4239: 비표준 확장이 사용됨: 'return': 'D3DXVECTOR2'에서 'D3DXVECTOR2 &'(으)로의 변환입니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\CameraManager.h(38,1): message : 비const 참조는 lvalue에만 바인딩할 수 있습니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\DXUT\Core\DXUT.cpp(696,131): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\DXUT\Core\DXUT.cpp(696,187): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\DXUT\Core\DXUT.cpp(697,135): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\DXUT\Core\DXUT.cpp(697,195): warning C4838: 'UINT'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\DXUT\Core\DXUT.cpp(4961,1): warning C4996: 'GetVersionExW': deprecated로 선언되었습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sysinfoapi.h(396): message : 'GetVersionExW' 선언을 참조하십시오.
+  BossBullet.cpp
+  Butten.cpp
+  CameraManager.cpp
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\CameraManager.cpp(66,61): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\CameraManager.cpp(66,43): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cEnemy.cpp
+  ChoiceScene.cpp
+  cLenemyBullet.cpp
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\cLenemyBullet.cpp(52,11): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Collider.cpp
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\Collider.cpp(20,30): warning C4244: '=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\Collider.cpp(21,31): warning C4244: '=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\Collider.cpp(22,29): warning C4244: '=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\Collider.cpp(23,32): warning C4244: '=': 'FLOAT'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  creditButten.cpp
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\creditButten.cpp(19,81): warning C4239: 비표준 확장이 사용됨: '인수': 'Vector2'에서 'T &'(으)로의 변환입니다.
+          with
+          [
+              T=Vector2
+          ]
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\creditButten.cpp(19,81): message : 비const 참조는 lvalue에만 바인딩할 수 있습니다.
+  credutScene.cpp
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\credutScene.cpp(21,22): warning C4244: '인수': 'int'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SDKsound.cpp
+  SDKwavefile.cpp
+  effect1.cpp
+  EnemyBullet.cpp
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\EnemyBullet.cpp(47,11): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  goEnemy.cpp
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\goEnemy.cpp(28,78): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  guideback.cpp
+  guideButten.cpp
+  backButton.cpp
+  guidenext.cpp
+  guidescene.cpp
+  ImageManager.cpp
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\ImageManager.cpp(82,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 'sprintf' 선언을 참조하십시오.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\ImageManager.cpp(272,83): warning C4244: '인수': 'UINT'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\ImageManager.cpp(272,54): warning C4244: '인수': 'UINT'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\ImageManager.cpp(302,29): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\ImageManager.cpp(306,29): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\ImageManager.cpp(307,37): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\ObjectManager.h(41): warning C4715: 'ObjectManager::FindObject': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\ObjectManager.h(41): warning C4715: 'ObjectManager::FindObject': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  컴파일하고 있습니다...
+  IngameScene.cpp
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\IngameScene.cpp(55,70): warning C4239: 비표준 확장이 사용됨: '인수': 'Vector2'에서 'T &'(으)로의 변환입니다.
+          with
+          [
+              T=Vector2
+          ]
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\IngameScene.cpp(55,70): message : 비const 참조는 lvalue에만 바인딩할 수 있습니다.
+  ingameUi.cpp
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\ingameUi.cpp(9,16): warning C4477: 'sprintf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\ingameUi.cpp(10,14): warning C4477: 'sprintf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\ingameUi.cpp(9,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 'sprintf' 선언을 참조하십시오.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\ingameUi.cpp(10,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 'sprintf' 선언을 참조하십시오.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\ingameUi.cpp(17,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 'sprintf' 선언을 참조하십시오.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\ingameUi.cpp(18,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 'sprintf' 선언을 참조하십시오.
+  InputManager.cpp
+  item.cpp
+  lerpEnemy.cpp
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\lerpEnemy.cpp(39,60): warning C4239: 비표준 확장이 사용됨: '인수': 'Vector2'에서 'T &'(으)로의 변환입니다.
+          with
+          [
+              T=Vector2
+          ]
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\lerpEnemy.cpp(39,60): message : 비const 참조는 lvalue에만 바인딩할 수 있습니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\lerpEnemy.cpp(56,61): warning C4239: 비표준 확장이 사용됨: '인수': 'Vector2'에서 'T &'(으)로의 변환입니다.
+          with
+          [
+              T=Vector2
+          ]
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\lerpEnemy.cpp(56,61): message : 비const 참조는 lvalue에만 바인딩할 수 있습니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\lerpEnemy.cpp(73,14): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\lerpEnemy.cpp(73,41): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\lerpEnemy.cpp(75,53): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  LookEnemy.cpp
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\LookEnemy.cpp(30,47): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\LookEnemy.cpp(30,44): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\LookEnemy.cpp(30,55): warning C4239: 비표준 확장이 사용됨: '인수': 'Vector2'에서 'T &'(으)로의 변환입니다.
+          with
+          [
+              T=Vector2
+          ]
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\LookEnemy.cpp(30,55): message : 비const 참조는 lvalue에만 바인딩할 수 있습니다.
+  MainGame.cpp
+  Math.cpp
+  Mose.cpp
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\Mose.cpp(25,28): warning C4244: '인수': 'LONG'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\Mose.cpp(25,22): warning C4244: '인수': 'LONG'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Object.cpp
+  ObjectManager.cpp
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\ObjectManager.cpp(65,47): warning C4239: 비표준 확장이 사용됨: '초기화 중': 'std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>>'에서 'std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>> &'(으)로의 변환입니다.
+          with
+          [
+              _Ty=Collider *
+          ]
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\ObjectManager.cpp(65,47): message : 비const 참조는 lvalue에만 바인딩할 수 있습니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\ObjectManager.cpp(94,43): warning C4239: 비표준 확장이 사용됨: '초기화 중': 'std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>>'에서 'std::_List_iterator<std::_List_val<std::_List_simple_types<_Ty>>> &'(으)로의 변환입니다.
+          with
+          [
+              _Ty=Collider *
+          ]
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\ObjectManager.cpp(94,43): message : 비const 참조는 lvalue에만 바인딩할 수 있습니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\ObjectManager.cpp(100): warning C4238: 비표준 확장이 사용됨: 클래스 rvalue를 lvalue로 사용했습니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\ObjectManager.cpp(100,63): warning C4238: 비표준 확장이 사용됨: 클래스 rvalue를 lvalue로 사용했습니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\ObjectManager.cpp(100,84): warning C4238: 비표준 확장이 사용됨: 클래스 rvalue를 lvalue로 사용했습니다.
+  OBullet.cpp
+  Omoveenemy.cpp
+  oneBoss.cpp
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\oneBoss.cpp(60,88): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  oneBossScene.cpp
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\oneBossScene.cpp(21,15): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+  oneplayerskill.cpp
+  optionButten.cpp
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\optionButten.cpp(19,81): warning C4239: 비표준 확장이 사용됨: '인수': 'Vector2'에서 'T &'(으)로의 변환입니다.
+          with
+          [
+              T=Vector2
+          ]
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\optionButten.cpp(19,81): message : 비const 참조는 lvalue에만 바인딩할 수 있습니다.
+  optionScene.cpp
+  Player.cpp
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\Player.cpp(41,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Player1ui.cpp
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\Player1ui.cpp(19,94): warning C4239: 비표준 확장이 사용됨: '인수': 'Vector2'에서 'T &'(으)로의 변환입니다.
+          with
+          [
+              T=Vector2
+          ]
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\Player1ui.cpp(19,94): message : 비const 참조는 lvalue에만 바인딩할 수 있습니다.
+  코드를 생성하고 있습니다...
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\ObjectManager.h(41): warning C4715: 'ObjectManager::FindObject': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\ObjectManager.h(41): warning C4715: 'ObjectManager::FindObject': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\ObjectManager.h(41): warning C4715: 'ObjectManager::FindObject': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  컴파일하고 있습니다...
+  Player2.cpp
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\Player2.cpp(36,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Player2ui.cpp
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\Player2ui.cpp(19,94): warning C4239: 비표준 확장이 사용됨: '인수': 'Vector2'에서 'T &'(으)로의 변환입니다.
+          with
+          [
+              T=Vector2
+          ]
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\Player2ui.cpp(19,94): message : 비const 참조는 lvalue에만 바인딩할 수 있습니다.
+  PlayerBullet.cpp
+  Playergun.cpp
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\Playergun.cpp(20,66): warning C4239: 비표준 확장이 사용됨: '인수': 'Vector2'에서 'T &'(으)로의 변환입니다.
+          with
+          [
+              T=Vector2
+          ]
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\Playergun.cpp(20,66): message : 비const 참조는 lvalue에만 바인딩할 수 있습니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\Playergun.cpp(25,66): warning C4239: 비표준 확장이 사용됨: '인수': 'Vector2'에서 'T &'(으)로의 변환입니다.
+          with
+          [
+              T=Vector2
+          ]
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\Playergun.cpp(25,66): message : 비const 참조는 lvalue에만 바인딩할 수 있습니다.
+  playui.cpp
+  rhrenemy.cpp
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\rhrenemy.cpp(6,14): warning C4458: 'Speed' 선언은 클래스 멤버를 숨깁니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\Object.h(34,10): message : 'Object::Speed' 선언을 참조하십시오.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\rhrenemy.cpp(6,6): warning C4189: 'Speed': 지역 변수가 초기화되었으나 참조되지 않았습니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\rhrenemy.cpp(14): warning C4238: 비표준 확장이 사용됨: 클래스 rvalue를 lvalue로 사용했습니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\rhrenemy.cpp(15): warning C4238: 비표준 확장이 사용됨: 클래스 rvalue를 lvalue로 사용했습니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\rhrenemy.cpp(18,15): warning C4389: '==': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\rhrenemy.cpp(14,52): warning C4238: 비표준 확장이 사용됨: 클래스 rvalue를 lvalue로 사용했습니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\rhrenemy.cpp(15,29): warning C4238: 비표준 확장이 사용됨: 클래스 rvalue를 lvalue로 사용했습니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\rhrenemy.cpp(64,39): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\rhrenemy.cpp(65,38): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\rhrenemy.cpp(66,32): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Scene.cpp
+  SceneManager.cpp
+  Scroolmap.cpp
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\Scroolmap.cpp(23,18): warning C4244: '초기화 중': 'UINT'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SoundManager.cpp
+  stdafx.cpp
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\stdafx.cpp(9,1): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1469): message : 'vsprintf' 선언을 참조하십시오.
+  Timer.cpp
+  TitleScene.cpp
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\TitleScene.cpp(35,72): warning C4239: 비표준 확장이 사용됨: '인수': 'Vector2'에서 'T &'(으)로의 변환입니다.
+          with
+          [
+              T=Vector2
+          ]
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\TitleScene.cpp(35,72): message : 비const 참조는 lvalue에만 바인딩할 수 있습니다.
+  twoBoss.cpp
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\twoBoss.cpp(26,14): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\twoBoss.cpp(26,42): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\twoBoss.cpp(28,53): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\twoBoss.cpp(31,57): warning C4239: 비표준 확장이 사용됨: '인수': 'Vector2'에서 'T &'(으)로의 변환입니다.
+          with
+          [
+              T=Vector2
+          ]
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\twoBoss.cpp(31,57): message : 비const 참조는 lvalue에만 바인딩할 수 있습니다.
+  twoBossScene.cpp
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\twoBossScene.cpp(21,15): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+  twoEnemy.cpp
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\twoEnemy.cpp(30,47): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\twoEnemy.cpp(30,44): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\twoEnemy.cpp(30,55): warning C4239: 비표준 확장이 사용됨: '인수': 'Vector2'에서 'T &'(으)로의 변환입니다.
+          with
+          [
+              T=Vector2
+          ]
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\twoEnemy.cpp(30,55): message : 비const 참조는 lvalue에만 바인딩할 수 있습니다.
+  twoScene.cpp
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\twoScene.cpp(29,15): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\twoScene.cpp(81,72): warning C4239: 비표준 확장이 사용됨: '인수': 'Vector2'에서 'T &'(으)로의 변환입니다.
+          with
+          [
+              T=Vector2
+          ]
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\twoScene.cpp(81,72): message : 비const 참조는 lvalue에만 바인딩할 수 있습니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\twoScene.cpp(93,17): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+  UI.cpp
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\UI.cpp(12,16): warning C4477: 'sprintf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\UI.cpp(12,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 'sprintf' 선언을 참조하십시오.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\UI.cpp(18,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : 'sprintf' 선언을 참조하십시오.
+  xButten.cpp
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\xButten.cpp(19,81): warning C4239: 비표준 확장이 사용됨: '인수': 'Vector2'에서 'T &'(으)로의 변환입니다.
+          with
+          [
+              T=Vector2
+          ]
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\xButten.cpp(19,81): message : 비const 참조는 lvalue에만 바인딩할 수 있습니다.
+  DXUTenum.cpp
+  코드를 생성하고 있습니다...
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\ObjectManager.h(41): warning C4715: 'ObjectManager::FindObject': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\ObjectManager.h(41): warning C4715: 'ObjectManager::FindObject': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  컴파일하고 있습니다...
+  DXUTmisc.cpp
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\DXUT\Core\DXUTmisc.cpp(1263,1): warning C4996: 'GetVersionExA': deprecated로 선언되었습니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\sysinfoapi.h(387): message : 'GetVersionExA' 선언을 참조하십시오.
+  DXUTcamera.cpp
+  DXUTgui.cpp
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\DXUT\Optional\DXUTgui.cpp(6846,37): warning C4458: 'iTexture' 선언은 클래스 멤버를 숨깁니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\DXUT\Optional\DXUTgui.h(109,10): message : 'CDXUTElement::iTexture' 선언을 참조하십시오.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\DXUT\Optional\DXUTgui.cpp(6860,34): warning C4458: 'iFont' 선언은 클래스 멤버를 숨깁니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\DXUT\Optional\DXUTgui.h(110,10): message : 'CDXUTElement::iFont' 선언을 참조하십시오.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\DXUT\Optional\DXUTgui.cpp(6860,74): warning C4458: 'dwTextFormat' 선언은 클래스 멤버를 숨깁니다.
+C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\DXUT\Optional\DXUTgui.h(111,11): message : 'CDXUTElement::dwTextFormat' 선언을 참조하십시오.
+  DXUTres.cpp
+  DXUTsettingsdlg.cpp
+  SDKmesh.cpp
+  SDKmisc.cpp
+  EmptyProject.cpp
+  코드를 생성하고 있습니다...
+BossBullet.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/SAFESEH' 사양으로 인해 무시됩니다.
+  EmptyProject_2010.vcxproj -> C:\Users\소순선\Desktop\스마일게이트1256351244 (1)\프레임 워크\EmptyProject\Debug\EmptyProject.exe

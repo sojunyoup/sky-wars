@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns:atg="http://atg.xbox.com" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{8e114980-c1a3-4ada-ad7c-83caadf5daeb}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="DXUT">
+      <UniqueIdentifier>{a43c5c25-0e86-4a20-b64a-883785ff74fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{2c3d4c8c-5d1a-459a-a05a-a4e4b608a44e}</UniqueIdentifier>
+      <Extensions>fx;fxh;hlsl</Extensions>
+    </Filter>
+    <Filter Include="MainGame">
+      <UniqueIdentifier>{6b475549-5f91-4439-b055-fa7b8b79fa5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager">
+      <UniqueIdentifier>{c2aea43e-4fea-42b3-ae69-9753649374ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\Image">
+      <UniqueIdentifier>{74a01104-1ec1-4049-9a4d-7ad31357ec36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\Scene">
+      <UniqueIdentifier>{022175e6-5122-4c7b-8243-5bd09dd22d12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\Input">
+      <UniqueIdentifier>{e552a8c4-c7f3-437e-9b06-ee41d035c06d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\Object">
+      <UniqueIdentifier>{51563b84-72f6-4c89-a596-30da8a567fe9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\Timer">
+      <UniqueIdentifier>{d94bea1b-ef2c-4b2b-9749-1b576d3fa123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\Camera">
+      <UniqueIdentifier>{c986f82f-1036-4df5-8120-b7fd5c280128}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\Object\Collider">
+      <UniqueIdentifier>{e526842b-a72e-4f63-b970-3100cd410ded}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\Math">
+      <UniqueIdentifier>{09dd8994-5326-4170-bf31-f7674db99c5a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameScene">
+      <UniqueIdentifier>{aefa799f-5f47-4dea-9f1f-a5f30a84b42c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject">
+      <UniqueIdentifier>{cc75b7bd-be8b-4295-8e1b-611cc4aec3d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Manager\Sound">
+      <UniqueIdentifier>{da161b9a-3beb-4c59-b881-c49cdb39af69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\bullet">
+      <UniqueIdentifier>{397704b5-cab4-46a0-8ab9-31e3fea8bc7b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\scroolmap">
+      <UniqueIdentifier>{d30def02-203c-4d2a-a1bb-bb0238d8f9de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\UI">
+      <UniqueIdentifier>{e43413ca-be0f-4353-bfdf-f749b9674c9f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\bullet\player">
+      <UniqueIdentifier>{f7b0a4a6-444d-482c-8d3a-4d1ee6a44d04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\bullet\enemy">
+      <UniqueIdentifier>{248462f1-717b-44f2-83c6-3aae7a171831}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\effect">
+      <UniqueIdentifier>{e86bc14c-0f93-48fa-990e-f51f2db9cd5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\UI\start">
+      <UniqueIdentifier>{f4af9420-fee9-403d-9922-ec94f94d3be3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\UI\guide">
+      <UniqueIdentifier>{142d8d0b-f479-4b09-ba9b-2908130c9100}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\UI\credit">
+      <UniqueIdentifier>{da36877d-34bd-4e0c-8bf7-95eaddd762b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\UI\option">
+      <UniqueIdentifier>{1f6a0d40-fa41-445a-bc45-dc8be040fc98}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\UI\mouse">
+      <UniqueIdentifier>{6010c181-98c3-4391-8336-be4228c25507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\bullet\OBullet">
+      <UniqueIdentifier>{755d953b-b120-4e87-9448-a29e853bb96b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameScene\title">
+      <UniqueIdentifier>{4e719947-641f-4e27-b7d6-f1c139040249}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameScene\charchoice">
+      <UniqueIdentifier>{75a9d259-465f-4e10-97fb-fb9aa3c05a4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameScene\charchoice\ui">
+      <UniqueIdentifier>{fcf44f38-25ad-403a-8a6c-3f90fd3d7943}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameScene\title\guide">
+      <UniqueIdentifier>{aad687f2-fb31-473c-8747-aaccc12a97e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\1st enemy">
+      <UniqueIdentifier>{e928e00e-9212-4477-aebb-c79c93b2745c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\2st enemy">
+      <UniqueIdentifier>{c8178838-8b29-403b-b6d1-71fe731ba3d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\item">
+      <UniqueIdentifier>{ee1b7b36-356f-418f-a657-ffe157e16200}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\1st enemy\1st boss">
+      <UniqueIdentifier>{38f24cea-f1c4-4a71-aad2-310656160193}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\UI\x">
+      <UniqueIdentifier>{69f42b92-d6c3-479b-bca2-144d221dfaa5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\1st enemy\2st boss">
+      <UniqueIdentifier>{57ae8903-d16f-4608-8159-b288445f5b2b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DXUT\Optional\directx.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <ClInclude Include="DXUT\Core\DXUT.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Core\DXUTenum.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Core\DXUTmisc.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClCompile Include="DXUT\Core\DXUT.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Core\DXUTenum.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Core\DXUTmisc.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClInclude Include="DXUT\Optional\DXUTcamera.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\DXUTgui.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\DXUTres.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\DXUTsettingsdlg.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\SDKmesh.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\SDKmisc.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClCompile Include="DXUT\Optional\DXUTcamera.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\DXUTgui.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\DXUTres.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\DXUTsettingsdlg.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\SDKmesh.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\SDKmisc.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="EmptyProject.cpp" />
+    <ClCompile Include="MainGame.cpp">
+      <Filter>MainGame</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageManager.cpp">
+      <Filter>Manager\Image</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>Manager\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>Manager\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="CameraManager.cpp">
+      <Filter>Manager\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="InputManager.cpp">
+      <Filter>Manager\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjectManager.cpp">
+      <Filter>Manager\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Object.cpp">
+      <Filter>Manager\Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Collider.cpp">
+      <Filter>Manager\Object\Collider</Filter>
+    </ClCompile>
+    <ClCompile Include="Math.cpp">
+      <Filter>Manager\Math</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>Manager\Timer</Filter>
+    </ClCompile>
+    <ClCompile Include="IngameScene.cpp">
+      <Filter>GameScene</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundManager.cpp">
+      <Filter>Manager\Sound</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\SDKsound.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="DXUT\Optional\SDKwavefile.cpp">
+      <Filter>DXUT</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="LookEnemy.cpp">
+      <Filter>GameObject\1st enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Scroolmap.cpp">
+      <Filter>GameObject\scroolmap</Filter>
+    </ClCompile>
+    <ClCompile Include="UI.cpp">
+      <Filter>GameObject\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="ingameUi.cpp">
+      <Filter>GameObject\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerBullet.cpp">
+      <Filter>GameObject\bullet\player</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyBullet.cpp">
+      <Filter>GameObject\bullet\enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="effect1.cpp">
+      <Filter>GameObject\effect</Filter>
+    </ClCompile>
+    <ClCompile Include="Mose.cpp">
+      <Filter>GameObject\UI\mouse</Filter>
+    </ClCompile>
+    <ClCompile Include="Butten.cpp">
+      <Filter>GameObject\UI\start</Filter>
+    </ClCompile>
+    <ClCompile Include="guideButten.cpp">
+      <Filter>GameObject\UI\guide</Filter>
+    </ClCompile>
+    <ClCompile Include="optionButten.cpp">
+      <Filter>GameObject\UI\option</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="rhrenemy.cpp">
+      <Filter>GameObject\1st enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="OBullet.cpp">
+      <Filter>GameObject\bullet\OBullet</Filter>
+    </ClCompile>
+    <ClCompile Include="goEnemy.cpp">
+      <Filter>GameObject\1st enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="oneBossScene.cpp">
+      <Filter>GameScene</Filter>
+    </ClCompile>
+    <ClCompile Include="oneBoss.cpp">
+      <Filter>GameObject\1st enemy\1st boss</Filter>
+    </ClCompile>
+    <ClCompile Include="cLenemyBullet.cpp">
+      <Filter>GameObject\1st enemy\1st boss</Filter>
+    </ClCompile>
+    <ClCompile Include="TitleScene.cpp">
+      <Filter>GameScene\title</Filter>
+    </ClCompile>
+    <ClCompile Include="optionScene.cpp">
+      <Filter>GameScene\title</Filter>
+    </ClCompile>
+    <ClCompile Include="ChoiceScene.cpp">
+      <Filter>GameScene\charchoice</Filter>
+    </ClCompile>
+    <ClCompile Include="Player1ui.cpp">
+      <Filter>GameScene\charchoice\ui</Filter>
+    </ClCompile>
+    <ClCompile Include="Player2ui.cpp">
+      <Filter>GameScene\charchoice\ui</Filter>
+    </ClCompile>
+    <ClCompile Include="Player2.cpp">
+      <Filter>GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="playui.cpp">
+      <Filter>GameScene\charchoice\ui</Filter>
+    </ClCompile>
+    <ClCompile Include="creditButten.cpp">
+      <Filter>GameObject\UI\credit</Filter>
+    </ClCompile>
+    <ClCompile Include="credutScene.cpp">
+      <Filter>GameScene\title</Filter>
+    </ClCompile>
+    <ClCompile Include="BossBullet.cpp">
+      <Filter>GameObject\bullet\OBullet</Filter>
+    </ClCompile>
+    <ClCompile Include="Playergun.cpp">
+      <Filter>GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="Omoveenemy.cpp">
+      <Filter>GameObject\1st enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="twoScene.cpp">
+      <Filter>GameScene</Filter>
+    </ClCompile>
+    <ClCompile Include="guidescene.cpp">
+      <Filter>GameScene\title\guide</Filter>
+    </ClCompile>
+    <ClCompile Include="backButton.cpp">
+      <Filter>GameScene\title\guide</Filter>
+    </ClCompile>
+    <ClCompile Include="guidenext.cpp">
+      <Filter>GameScene\title\guide</Filter>
+    </ClCompile>
+    <ClCompile Include="guideback.cpp">
+      <Filter>GameScene\title\guide</Filter>
+    </ClCompile>
+    <ClCompile Include="cEnemy.cpp">
+      <Filter>GameObject\2st enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="lerpEnemy.cpp">
+      <Filter>GameObject\2st enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="item.cpp">
+      <Filter>GameObject\item</Filter>
+    </ClCompile>
+    <ClCompile Include="xButten.cpp">
+      <Filter>GameObject\UI\x</Filter>
+    </ClCompile>
+    <ClCompile Include="twoBoss.cpp">
+      <Filter>GameObject\1st enemy\2st boss</Filter>
+    </ClCompile>
+    <ClCompile Include="oneplayerskill.cpp">
+      <Filter>GameObject\bullet\player</Filter>
+    </ClCompile>
+    <ClCompile Include="twoEnemy.cpp">
+      <Filter>GameObject\2st enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="twoBossScene.cpp">
+      <Filter>GameScene</Filter>
+    </ClCompile>
+    <ClCompile Include="tkaqjsScene.cpp">
+      <Filter>GameScene</Filter>
+    </ClCompile>
+    <ClCompile Include="rkfhBullet.cpp">
+      <Filter>GameObject\bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="tpfhBullet.cpp">
+      <Filter>GameObject\bullet</Filter>
+    </ClCompile>
+    <ClCompile Include="EndScene.cpp">
+      <Filter>GameScene</Filter>
+    </ClCompile>
+    <ClCompile Include="BossEffect.cpp">
+      <Filter>GameObject\effect</Filter>
+    </ClCompile>
+    <ClCompile Include="hillitem.cpp">
+      <Filter>GameObject\item</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MainGame.h">
+      <Filter>MainGame</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageManager.h">
+      <Filter>Manager\Image</Filter>
+    </ClInclude>
+    <ClInclude Include="singleton.h">
+      <Filter>Manager</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h">
+      <Filter>Manager\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>Manager\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="CameraManager.h">
+      <Filter>Manager\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="InputManager.h">
+      <Filter>Manager\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjectManager.h">
+      <Filter>Manager\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Object.h">
+      <Filter>Manager\Object</Filter>
+    </ClInclude>
+    <ClInclude Include="Collider.h">
+      <Filter>Manager\Object\Collider</Filter>
+    </ClInclude>
+    <ClInclude Include="Math.h">
+      <Filter>Manager\Math</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>Manager\Timer</Filter>
+    </ClInclude>
+    <ClInclude Include="IngameScene.h">
+      <Filter>GameScene</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundManager.h">
+      <Filter>Manager\Sound</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\SDKsound.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="DXUT\Optional\SDKwavefile.h">
+      <Filter>DXUT</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="LookEnemy.h">
+      <Filter>GameObject\1st enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Scroolmap.h">
+      <Filter>GameObject\scroolmap</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
+      <Filter>GameObject\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="ingameUi.h">
+      <Filter>GameObject\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerBullet.h">
+      <Filter>GameObject\bullet\player</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyBullet.h">
+      <Filter>GameObject\bullet\enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="effect1.h">
+      <Filter>GameObject\effect</Filter>
+    </ClInclude>
+    <ClInclude Include="Mose.h">
+      <Filter>GameObject\UI\mouse</Filter>
+    </ClInclude>
+    <ClInclude Include="Butten.h">
+      <Filter>GameObject\UI\start</Filter>
+    </ClInclude>
+    <ClInclude Include="guideButten.h">
+      <Filter>GameObject\UI\guide</Filter>
+    </ClInclude>
+    <ClInclude Include="optionButten.h">
+      <Filter>GameObject\UI\option</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="rhrenemy.h">
+      <Filter>GameObject\1st enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="OBullet.h">
+      <Filter>GameObject\bullet\OBullet</Filter>
+    </ClInclude>
+    <ClInclude Include="goEnemy.h">
+      <Filter>GameObject\1st enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="oneBossScene.h">
+      <Filter>GameScene</Filter>
+    </ClInclude>
+    <ClInclude Include="cLenemyBullet.h">
+      <Filter>GameObject\1st enemy\1st boss</Filter>
+    </ClInclude>
+    <ClInclude Include="TitleScene.h">
+      <Filter>GameScene\title</Filter>
+    </ClInclude>
+    <ClInclude Include="optionScene.h">
+      <Filter>GameScene\title</Filter>
+    </ClInclude>
+    <ClInclude Include="ChoiceScene.h">
+      <Filter>GameScene\charchoice</Filter>
+    </ClInclude>
+    <ClInclude Include="Player1ui.h">
+      <Filter>GameScene\charchoice\ui</Filter>
+    </ClInclude>
+    <ClInclude Include="Player2ui.h">
+      <Filter>GameScene\charchoice\ui</Filter>
+    </ClInclude>
+    <ClInclude Include="Player2.h">
+      <Filter>GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="playui.h">
+      <Filter>GameScene\charchoice\ui</Filter>
+    </ClInclude>
+    <ClInclude Include="creditButten.h">
+      <Filter>GameObject\UI\credit</Filter>
+    </ClInclude>
+    <ClInclude Include="credutScene.h">
+      <Filter>GameScene\title</Filter>
+    </ClInclude>
+    <ClInclude Include="BossBullet.h">
+      <Filter>GameObject\bullet\OBullet</Filter>
+    </ClInclude>
+    <ClInclude Include="Playergun.h">
+      <Filter>GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="Omoveenemy.h">
+      <Filter>GameObject\1st enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="twoScene.h">
+      <Filter>GameScene</Filter>
+    </ClInclude>
+    <ClInclude Include="guidescene.h">
+      <Filter>GameScene\title\guide</Filter>
+    </ClInclude>
+    <ClInclude Include="backButton.h">
+      <Filter>GameScene\title\guide</Filter>
+    </ClInclude>
+    <ClInclude Include="guidenext.h">
+      <Filter>GameScene\title\guide</Filter>
+    </ClInclude>
+    <ClInclude Include="guideback.h">
+      <Filter>GameScene\title\guide</Filter>
+    </ClInclude>
+    <ClInclude Include="cEnemy.h">
+      <Filter>GameObject\2st enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="lerpEnemy.h">
+      <Filter>GameObject\2st enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="item.h">
+      <Filter>GameObject\item</Filter>
+    </ClInclude>
+    <ClInclude Include="xButten.h">
+      <Filter>GameObject\UI\x</Filter>
+    </ClInclude>
+    <ClInclude Include="twoBoss.h">
+      <Filter>GameObject\1st enemy\2st boss</Filter>
+    </ClInclude>
+    <ClInclude Include="oneplayerskill.h">
+      <Filter>GameObject\bullet\player</Filter>
+    </ClInclude>
+    <ClInclude Include="twoEnemy.h">
+      <Filter>GameObject\2st enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="twoBossScene.h">
+      <Filter>GameScene</Filter>
+    </ClInclude>
+    <ClInclude Include="tkaqjsScene.h">
+      <Filter>GameScene</Filter>
+    </ClInclude>
+    <ClInclude Include="rkfhBullet.h">
+      <Filter>GameObject\bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="tpfhBullet.h">
+      <Filter>GameObject\bullet</Filter>
+    </ClInclude>
+    <ClInclude Include="EndScene.h">
+      <Filter>GameScene</Filter>
+    </ClInclude>
+    <ClInclude Include="BossEffect.h">
+      <Filter>GameObject\effect</Filter>
+    </ClInclude>
+    <ClInclude Include="hillitem.h">
+      <Filter>GameObject\item</Filter>
+    </ClInclude>
+    <ClInclude Include="oneBoss.h">
+      <Filter>GameObject\1st enemy\1st boss</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CLInclude Include="resource.h">
+      <Filter>Resource Files</Filter>
+    </CLInclude>
+    <ResourceCompile Include="EmptyProject.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

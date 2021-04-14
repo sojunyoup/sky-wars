@@ -1,0 +1,11 @@
+﻿  ingameUi.cpp
+C:\Users\소준엽\Desktop\Portfolio\6. 스마일게이트 프로젝트\프레임 워크\EmptyProject\ingameUi.cpp(9,16): warning C4477: 'sprintf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+C:\Users\소준엽\Desktop\Portfolio\6. 스마일게이트 프로젝트\프레임 워크\EmptyProject\ingameUi.cpp(10,14): warning C4477: 'sprintf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+C:\Users\소준엽\Desktop\Portfolio\6. 스마일게이트 프로젝트\프레임 워크\EmptyProject\ingameUi.cpp(9,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\소준엽\Desktop\Portfolio\6. 스마일게이트 프로젝트\프레임 워크\EmptyProject\ingameUi.cpp(10,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\소준엽\Desktop\Portfolio\6. 스마일게이트 프로젝트\프레임 워크\EmptyProject\ingameUi.cpp(17,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\소준엽\Desktop\Portfolio\6. 스마일게이트 프로젝트\프레임 워크\EmptyProject\ingameUi.cpp(18,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다.
+C:\Users\소준엽\Desktop\Portfolio\6. 스마일게이트 프로젝트\프레임 워크\EmptyProject\ObjectManager.h(41): warning C4715: 'ObjectManager::FindObject': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  코드를 생성했습니다.
+  EmptyProject_2010.vcxproj -> C:\Users\소준엽\Desktop\Portfolio\6. 스마일게이트 프로젝트\프레임 워크\EmptyProject\x64\Release\EmptyProject.exe
